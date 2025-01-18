@@ -8,7 +8,7 @@ setup(
     long_description_content_type='text/markdown',
     author='Alluringlambpl',
     author_email='fboost247@gmail.com',
-    url='notyet',  # Link do repozytorium (np. GitHub)
+    url='https://github.com/Allurinblambpl/LexiGo-Engine',  # Link do repozytorium (np. GitHub)
     packages=find_packages(),         # Automatycznie znajdź wszystkie pakiety
     install_requires=[                # Zależności, jeśli są
         'keyboard',                    # Jeśli używasz `keyboard`, dodaj tutaj

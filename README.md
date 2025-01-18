@@ -1,3 +1,5 @@
+ReadMe in github is little buggy. Pls read ReadMe.md in file
+
 # LexiGameEngine
 LexiGameEngine is a simple 3D game engine written in Python. It allows you to create 3D objects, perform transformations (translation, rotation, scaling), and render them in the terminal. The engine also includes basic physics (gravity and collision detection), lighting, and user input handling for interactive movement. Additionally, it supports saving and loading game states.
 

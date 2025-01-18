@@ -30,8 +30,8 @@ camera = Camera(Vector3(0, 0, -5), Vector3(0, 0, 0))
 
 # Create a 3D object (e.g., a cube)
 cube = Object3D([
-    (0, 0, 0), (1, 0, 0), (1, 1, 0), (0, 1, 0),  # Bottom face
-    (0, 0, 1), (1, 0, 1), (1, 1, 1), (0, 1, 1)   # Top face
+(0, 0, 0), (1, 0, 0), (1, 1, 0), (0, 1, 0), - Bottom face
+(0, 0, 1), (1, 0, 1), (1, 1, 1), (0, 1, 1)  - Top face
 ])
 
 # Add the object to the engine
